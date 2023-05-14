@@ -14,4 +14,4 @@ The wireless air mouse operates on a straightforward concept, which involves uti
 
 ## Circuit Diagram
 
-![Circuit Diagram]([https://flic.kr/p/2oAjrfZ])
+![Circuit Diagram](https://github.com/ravikumarchopra/Air-Mouse/assets/9302741/8fef4509-6d34-4db1-9ccd-297816760b62)
